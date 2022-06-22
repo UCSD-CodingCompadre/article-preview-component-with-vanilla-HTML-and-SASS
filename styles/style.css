@@ -181,6 +181,10 @@ body {
   padding: 0px .5rem;
 }
 
+#icon-1:hover, #icon-2:hover, #icon-3:hover, #share-text:hover {
+  cursor: pointer;
+}
+
 @media screen and (min-width: 1024px) {
   .card {
     display: -webkit-box;
