@@ -84,9 +84,6 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
 }
 
 .main .card .card-body .card-author .author-information .author-image-container {
@@ -157,9 +154,6 @@ body {
 
 .share-container {
   display: none;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
 }
 
 .share-container #share-text {

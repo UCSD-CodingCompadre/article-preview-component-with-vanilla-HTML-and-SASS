@@ -68,7 +68,7 @@ body
                 .author-information
                 {
                     display: flex;
-                    align-items: center;
+                    
                     .author-image-container
                     {
                         height: 50px;
@@ -132,7 +132,6 @@ body
 .share-container
 {
     display: none;
-    align-items: center;
     #share-text
     {
         color: hsl(212, 23%, 69%);
